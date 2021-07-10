@@ -1,0 +1,21 @@
+.right{
+    width: 50%;
+    margin-left: 20px;
+}
+.shoppingcart i{
+    display: inline-block;
+    margin-top: 5px;
+    font-size: 30px;
+    color: antiquewhite;
+   
+    padding: 0%;
+
+}
+.cartCount{
+    display: inline-block;
+    color: red;
+  
+    margin-top: 0%;
+    margin-right: 30px;
+    font-size: 20px;
+}
